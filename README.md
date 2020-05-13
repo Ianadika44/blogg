@@ -7,3 +7,10 @@
 
 ## Author
 - Ian Adika
+
+## Technologies used
+- Python3
+- Flask
+- Html5
+- Css3
+- Bootstrap4
