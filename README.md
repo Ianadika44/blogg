@@ -23,6 +23,13 @@
 - As a user am able to upload a photo in the mail
 - As a user am able to update my blogs and delete
 
+## Projects link
+-
+
+## CONTACT INFORMATION
+- Email:adika19ian@gmail.com.
+- Phone:0757441659.
+
 ## LICENSE AND COPYRIGHT INFORMATION
 -MIT License Copyright(2020) Ian Adika Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
