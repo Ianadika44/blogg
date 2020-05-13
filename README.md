@@ -23,6 +23,11 @@
 - As a user am able to upload a photo in the mail
 - As a user am able to update my blogs and delete
 
+## User development
+- To login one adds the valid username and the valid password
+- To signup one adds username,email adress thats valid,the password ,confirms the password and the user gets a message that shows the successfull signup
+- On the blogs,one adds the blog title and the post
+
 ## Projects link
 -
 
