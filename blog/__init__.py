@@ -15,3 +15,6 @@ login_manager.login_view = 'login'
 login_manager.login_message_category = 'info'
 
 from blog import routes
+from .main import main as main_blueprint
+app.register_blueprint(main_blueprint)
+
