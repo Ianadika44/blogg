@@ -1,6 +1,7 @@
 body {
     background-image: url('https://bit.ly/2LoOxbm');
-    color: #333333;
+    background-repeat: no-repeat;
+    background-size: cover;
     margin-top: 5rem;
   }
   h1, h2, h3, h4, h5, h6 {
@@ -29,7 +30,7 @@ body {
     color: #444444;
   }
   a.article-title:hover {
-    color: #0b1e2e;
+    color: #4187c0;
     text-decoration: none;
   }
   .article-content {
